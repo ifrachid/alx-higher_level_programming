@@ -4,7 +4,6 @@ import json
 import csv
 import turtle
 
-
 class Base:
     """Base class body.
     """
@@ -129,4 +128,3 @@ class Base:
             pen.right(90)
 
         window.exitonclick()
-
